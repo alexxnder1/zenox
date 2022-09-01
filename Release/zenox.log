@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\programator nervos\source\repos\zenox\zenox\zenox\main.cpp(13,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  entity.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Users\programator nervos\source\repos\zenox\zenox\Release\zenox.dll'
